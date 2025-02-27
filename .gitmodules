@@ -4,3 +4,6 @@
 [submodule "ft_printf"]
 	path = ft_printf
 	url = https://github.com/serg-backend-developer/ft_printf
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/serg-backend-developer/get_next_line
