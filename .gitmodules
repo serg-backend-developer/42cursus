@@ -7,3 +7,6 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = https://github.com/serg-backend-developer/get_next_line
+[submodule "so_long"]
+	path = so_long
+	url = https://github.com/serg-backend-developer/so_long
