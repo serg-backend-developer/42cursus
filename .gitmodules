@@ -13,3 +13,6 @@
 [submodule "minitalk"]
 	path = minitalk
 	url = https://github.com/serg-backend-developer/minitalk
+[submodule "push-swap"]
+	path = push-swap
+	url = https://github.com/serg-backend-developer/push-swap
