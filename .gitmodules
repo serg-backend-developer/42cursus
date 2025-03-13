@@ -16,3 +16,6 @@
 [submodule "push-swap"]
 	path = push-swap
 	url = https://github.com/serg-backend-developer/push-swap
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/serg-backend-developer/minishell
