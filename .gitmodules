@@ -19,3 +19,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = https://github.com/serg-backend-developer/minishell
+[submodule "philosophers"]
+	path = philosophers
+	url = https://github.com/serg-backend-developer/philosophers
