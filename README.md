@@ -1,5 +1,7 @@
 # 📘 42 Common Core Project Overview
 
+![Holy Graph](./screenshot.png)
+
 > A summary table of all projects I have completed during the 42 Common Core program.
 
 | Rank | Project           | Type  | Description                                                        | Language/Tools     | Status |
