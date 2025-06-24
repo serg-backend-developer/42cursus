@@ -22,3 +22,12 @@
 [submodule "philosophers"]
 	path = philosophers
 	url = https://github.com/serg-backend-developer/philosophers
+[submodule "inception"]
+	path = inception
+	url = https://github.com/serg-backend-developer/inception
+[submodule "42webserv"]
+	path = 42webserv
+	url = https://github.com/serg-backend-developer/42webserv
+[submodule "cub3d"]
+	path = cub3d
+	url = https://github.com/serg-backend-developer/cub3d
